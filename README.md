@@ -1,4 +1,4 @@
-# Iris-Species-Classification-and-Analysis-Program
+# Iris Species Classification and Analysis Program
 The Iris Species Classification and Analysis program employs machine learning to categorize Iris flower species using logistic regression. It starts by importing the Iris dataset containing measurements of sepal length, sepal width, petal length, and petal width. The program extracts features (X) and target variables (y), scales the data using StandardScaler, and splits it into training and testing sets.
 
 Key functionalities include training a logistic regression classifier to predict Iris species based on sepal and petal dimensions. It visualizes pairwise relationships in the data using seaborn's pair plot and evaluates the classifier's performance with a confusion matrix, displaying normalized true values.
